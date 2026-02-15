@@ -1,4 +1,4 @@
-# myNewGitProject
+# my Awesome Project
 ## MyProjectPlan
 -initilizate the project repository
 ## Usage Examples
